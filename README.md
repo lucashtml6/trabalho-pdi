@@ -2,6 +2,7 @@
 
 ### Autor: Lucas Souza e Silva - 7561
 
+### Link do vídeo: https://youtu.be/Z4DHiYE4ZKs
 ---
 
 ## Descrição do Projeto
